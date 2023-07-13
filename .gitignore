@@ -1,0 +1,10 @@
+# Esto es un comentario, no sera tenido en cuenta
+*.tmp
+*~
+# los archivos terminados en 'o'  o en  'a'
+*.[oa]
+# para tener en cuenta este archivo 
+!importante.tmp
+
+#no tener en cuenta directorio
+#privado/
